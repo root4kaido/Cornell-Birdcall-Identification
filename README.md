@@ -8,4 +8,11 @@ https://www.kaggle.com/c/birdsong-recognition/overview
 
 ## Findings
 
+### inference
+- maskして走査はききそう
 - nocall のデータが半分を占めているので，優先度は，nocallの識別精度保持 > 鳥の分類精度向上
+
+### training
+- gausenoise追加はききそう
+- mixupはききそう
+- data選んだりはしないほうが良さそう
