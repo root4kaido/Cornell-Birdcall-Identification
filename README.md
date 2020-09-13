@@ -10,10 +10,13 @@ https://www.kaggle.com/c/birdsong-recognition/overview
 ## Findings
 
 ### inference
-- maskして走査はききそう
+- maskして走査はききそう→分類にはきくけど，nocallのせいでダメ
 - nocall のデータが半分を占めているので，優先度は，nocallの識別精度保持 > 鳥の分類精度向上
 
+# 本質は，鳥の分類より，no call / calll分類！！！！
+
+
 ### training
-- gausenoise追加はききそう
+- gausenoise追加はききそう→そうでもない
 - mixupはききそう
 - data選んだりはしないほうが良さそう
