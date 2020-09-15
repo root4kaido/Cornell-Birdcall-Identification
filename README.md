@@ -18,5 +18,5 @@ https://www.kaggle.com/c/birdsong-recognition/overview
 
 ### training
 - gausenoise追加はききそう→そうでもない
-- mixupはききそう
+- mixupはききそう→そうでもない
 - data選んだりはしないほうが良さそう
